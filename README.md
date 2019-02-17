@@ -9,3 +9,11 @@ Any basket from a shot taken from inside the three-point line during game play c
 
 Three-Point Shot
 Any basket from a shot taken from outside the three-point line counts for three points. The shooting player can step on or cross the three-point line after releasing the ball; the shot will still count for three points. The shooter must have at least one foot on the floor outside of the line before taking the shot.
+
+To USE THIS, 
+1.Click on The CLONE or Download(Green Highlighted Button).
+2.Download Zip.
+3.Extract Zip.
+4.Open Android Studio
+5.Click on Open an Existing Android Studio Project.
+6.There you go, Report for bugs.
